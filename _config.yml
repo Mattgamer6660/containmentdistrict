@@ -1,8 +1,19 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: O.R.I. Containment District: Outpost-60
+description: whar
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mattgamer6660.github.io/containmentdistrict/
+
+logo: "logo.png"
+
+favicon_ico: "favicon.ico"
+
+aux_links_new_tab: true
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Primary Operations.":
+    - "https://www.roblox.com/groups/7595770/Orion-Research-Initiative#!/about"
+  "Containment District.":
+    - "https://www.roblox.com/groups/8664655/Energy-Corp-Response-Team#!/about"
+  "Administration Council.":
+    - "https://www.roblox.com/groups/9777413/The-Foundation-SCP-F#!/about"
